@@ -99,5 +99,5 @@ Maize (or Cassava / Tea – depending on exact dataset version) most frequently 
 ---
 
 **Prepared by:** [Daniel Nzioki Musyoka]  
-**Date:** March 2025 – March 2026  
-**Course/Module:** Integrated Pandas & Data Analysis Project
+**Date:**March 2026  
+**Course/Module:** Integrated Project: Understanding Maji Ndogo's agriculture [Code Challenge]git 
